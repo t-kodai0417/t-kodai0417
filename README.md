@@ -3,6 +3,7 @@
 - 🌱 I am studying Python from time to time.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- I want to be a programmer.
 
 <!---
 t-kodai0417/t-kodai0417 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
