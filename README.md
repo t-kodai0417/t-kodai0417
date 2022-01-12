@@ -1,6 +1,6 @@
-# Sueqkjs
-![Sueqkjs GitHub stats](https://github-readme-stats.vercel.app/api?username=Sueqkjs&count_private=true&show_icons=true&theme=dracula) <br>
-![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Sueqkjs&layout=compact&theme=dracula)
+# Kodai0417
+![Sueqkjs GitHub stats](https://github-readme-stats.vercel.app/api?username=t-kodai0417&count_private=true&show_icons=true&theme=dracula) <br>
+![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=t-kodai0417&layout=compact&theme=dracula)
 
 ## Languages
 ![Typescript](https://img.shields.io/badge/-Typescript-blue?style=for-the-badge) <br>
