@@ -7,7 +7,7 @@
 ![HTML](https://img.shields.io/badge/HTML-6DA55F?style=flat-square&logo=HTML5&logoColor=white) <br>
 ![CSS](https://img.shields.io/badge/CSS-6DA55F?style=flat-square&logo=CSS3&logoColor=white) <br>
 
-##Editors
+## Editors
 ![PyCharm](https://img.shields.io/badge/PyCharm-6DA55F?style=flat-square&logo=PyCharm&logoColor=white) <br>
 ![VScode](https://img.shields.io/badge/VSCode-6DA55F?style=flat-square&logo=VisualStudioCode&logoColor=white)
 
