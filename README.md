@@ -12,7 +12,7 @@
 ![VScode](https://img.shields.io/badge/VSCode-6DA55F?style=flat-square&logo=VisualStudioCode&logoColor=white)
 
 ## Sns
-[Twitter](https://twitter.com/kodaiezzzzzzz) <br>
+![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fkodaiezzzzzzz) <br>
 - 👋 Hi, I’m @t-kodai0417
 - 👀 I’m student.
 - 🌱 I am studying Python from time to time.
