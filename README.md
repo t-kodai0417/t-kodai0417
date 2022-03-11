@@ -3,12 +3,12 @@
 ![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=t-kodai0417&layout=compact&theme=dracula)
 
 ## Languages
-![Typescript](https://img.shields.io/badge/-PHP-blue?style=for-the-badge) <br>
+<img alt="py" src="https://img.shields.io/badge/Python-6DA55F?style=flat-square&logo=python&logoColor=white" />
 ![Javascript](https://img.shields.io/badge/-Javascript-blue?style=for-the-badge) <br>
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge) <br>
 
 ## Sns
-[Twitter](https://twitter.com/) <br>
+[Twitter](https://twitter.com/kodaiezzzzzzz) <br>
 - 👋 Hi, I’m @t-kodai0417
 - 👀 I’m student.
 - 🌱 I am studying Python from time to time.
