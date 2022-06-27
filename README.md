@@ -10,7 +10,7 @@
 - I want to be a programmer.
 - I am 14 years old.
 
-## Discordで業者とかやってます。仲良くしてくれると嬉しいです！
+# Discordで業者とかやってます。仲良くしてくれると嬉しいです！
 
 
 ## Languages
