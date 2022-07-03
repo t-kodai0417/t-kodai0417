@@ -1,6 +1,10 @@
 # Kodai0417
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=t-kodai0417&count_private=true&show_icons=true&theme=dracula) <br>
-![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=t-kodai0417&layout=compact&theme=dracula)
+[![Kodai's GitHub stats](https://github-readme-stats.vercel.app/api?username=t-kodai0417&show_icons=true&title_color=48b0d5&icon_color=48b0d5#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=t-kodai0417&date_format=%5BY%2F%5Dn%2Fj&ring=48b0d5&fire=48b0d5&currStreakLabel=48b0d5&currStreakNum=48b0d5)](https://git.io/streak-stats)
+<!--[![Kodai's GitHub stats](https://github-readme-stats.vercel.app/api?username=t-kodai0417&show_icons=true&title_color=48b0d5&icon_color=48b0d5&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t-kodai0417&layout=compact&title_color=48b0d5&icon_color=48b0d5#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)  
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t-kodai0417&layout=compact&title_color=48b0d5&icon_color=48b0d5&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Trophys](https://github-profile-trophy.vercel.app/?username=t-kodai0417&theme=flat&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 👋 Hi, I’m @t-kodai0417
 - 👀 I’m student.
